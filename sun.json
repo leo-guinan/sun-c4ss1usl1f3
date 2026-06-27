@@ -1,0 +1,355 @@
+{
+  "id": "sun-c4ss1usl1f3",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@c4ss1usl1f3 Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_fcd53a16e213",
+    "display_name": "c4ss1usl1f3",
+    "user_id": "@c4ss1usl1f3",
+    "description": "Community Archive-derived proof-of-search sun for @c4ss1usl1f3.",
+    "document_count": 157,
+    "word_count": 2833,
+    "active_days": 103,
+    "emissions": [
+      "Joinseeds",
+      "Time",
+      "Love",
+      "See",
+      "Know",
+      "Regenerative"
+    ],
+    "generated_at": "2026-06-27T15:39:33.330003+00:00",
+    "color": "#f59e0b",
+    "mass": 7.949
+  },
+  "planets": [
+    {
+      "id": "planet_04cb7f902d49",
+      "name": "Joinseeds",
+      "summary": "Archive cluster around joinseeds: 129 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "joinseeds",
+        "still",
+        "really",
+        "sariazout",
+        "which"
+      ],
+      "artifacts": [
+        {
+          "id": "art_20307da05d35",
+          "title": "Joinseeds receipt from 2021-11-09",
+          "excerpt": "@MetaverseMap @joinseeds is the best (first?) example of this that i know of. its cryptocurrency, its governance structure + commons, its gratitude token... many exciting things backed by trust and transparency.",
+          "source_document_id": "1458042945219739656",
+          "timestamp": "2021-11-09T12:05:01+00:00",
+          "url": "https://x.com/c4ss1usl1f3/status/1458042945219739656",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: joinseeds, still, really, sariazout."
+        },
+        {
+          "id": "art_805f34b128e7",
+          "title": "Joinseeds receipt from 2021-12-17",
+          "excerpt": "@atotsm @joinseeds @Neighbour_hoods @commonsstack @tecmns @seedclubhq this is the best overview of SEEDS imo https://t.co/Ot8b7ysy2Z",
+          "source_document_id": "1471942122794328069",
+          "timestamp": "2021-12-17T20:35:24+00:00",
+          "url": "https://x.com/c4ss1usl1f3/status/1471942122794328069",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: joinseeds, still, really, sariazout."
+        },
+        {
+          "id": "art_67a0746d2530",
+          "title": "Joinseeds receipt from 2021-10-24",
+          "excerpt": "@helioscomm @MrsBadgerface @sovereignnature building an economy that natively rewards organizations/communities based on a thrivability/regenerative index sounds like a good start. it's what @joinseeds is doing. 🙃",
+          "source_document_id": "1452106681647833096",
+          "timestamp": "2021-10-24T02:56:26+00:00",
+          "url": "https://x.com/c4ss1usl1f3/status/1452106681647833096",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: joinseeds, still, really, sariazout."
+        },
+        {
+          "id": "art_bd3e1b8ed4e1",
+          "title": "Joinseeds receipt from 2022-10-19",
+          "excerpt": "that's why we need agent-centric tools &amp; designs.\n\nso we can take one step closer to calling ourselves masters of our fate - as individuals and as a society.",
+          "source_document_id": "1582765799101825025",
+          "timestamp": "2022-10-19T16:09:07+00:00",
+          "url": "https://x.com/c4ss1usl1f3/status/1582765799101825025",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: joinseeds, still, really, sariazout."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_96205c7a189d",
+      "proof_score": 0.837,
+      "mass": 22.883,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_7948155b9f86",
+      "name": "Time",
+      "summary": "Archive cluster around time: 10 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "time",
+        "long",
+        "same",
+        "interesting",
+        "already"
+      ],
+      "artifacts": [
+        {
+          "id": "art_41c3137ab3af",
+          "title": "Time receipt from 2022-04-11",
+          "excerpt": "@EleanorKonik @bianca_oli_per agree! i had this heartwarming experience recently not with a game, but with an anime - \"demon slayer\". it gets intense/deep, but it's wholesome almost the whole time. it's not very long too. def recommend :)",
+          "source_document_id": "1513393222252470272",
+          "timestamp": "2022-04-11T05:47:16+00:00",
+          "url": "https://x.com/c4ss1usl1f3/status/1513393222252470272",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, long, same, interesting."
+        },
+        {
+          "id": "art_15e824d6075b",
+          "title": "Time receipt from 2023-11-20",
+          "excerpt": "@_ketan0 @tweetbase_ experiment in this direction!\n\ni've been wanting to do it for a long time (as i think we've both seen the \"twitter metagame of collaborative thinking\" for a while), but i guess for me, i always felt like i lacked the right relationships to play it, instead of defaulting to the",
+          "source_document_id": "1726404805277479119",
+          "timestamp": "2023-11-20T00:59:15+00:00",
+          "url": "https://x.com/c4ss1usl1f3/status/1726404805277479119",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, long, same, interesting."
+        },
+        {
+          "id": "art_253ba6eee1e7",
+          "title": "Time receipt from 2022-11-11",
+          "excerpt": "@yahya_ahd @fortelabs your point makes total sense for me, at the same time that i can see where he's coming from. there's already working tech in very early stages to capture our inner speech.",
+          "source_document_id": "1591032324615012353",
+          "timestamp": "2022-11-11T11:37:20+00:00",
+          "url": "https://x.com/c4ss1usl1f3/status/1591032324615012353",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, long, same, interesting."
+        },
+        {
+          "id": "art_25107384a53c",
+          "title": "Time receipt from 2024-08-07",
+          "excerpt": "@andrea_is_a love it!!! i've been working on a similar metacrisis/regen research garden for quite some time, though not as well-structured as yours yet :) let's connect sometime soon! ❤",
+          "source_document_id": "1821190505700458759",
+          "timestamp": "2024-08-07T14:23:47+00:00",
+          "url": "https://x.com/c4ss1usl1f3/status/1821190505700458759",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, long, same, interesting."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_9bd118c7617f",
+      "proof_score": 0.59,
+      "mass": 17.239,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_0d092b07c8fe",
+      "name": "Love",
+      "summary": "Archive cluster around love: 7 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "love",
+        "see",
+        "bringing",
+        "ideas",
+        "aleborda21"
+      ],
+      "artifacts": [
+        {
+          "id": "art_a0faebb23876",
+          "title": "Love receipt from 2021-06-04",
+          "excerpt": "damn! @itsericbrown bringing clarity and putting so much into a few words. love seeing this convergence of awakenings, initiatives, ideas and movements. thanks for the cartography! :) https://t.co/0hFeTaLNUT",
+          "source_document_id": "1400882406001893381",
+          "timestamp": "2021-06-04T18:29:27+00:00",
+          "url": "https://x.com/c4ss1usl1f3/status/1400882406001893381",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: love, see, bringing, ideas."
+        },
+        {
+          "id": "art_e343fbaea953",
+          "title": "Love receipt from 2023-08-08",
+          "excerpt": "https://t.co/0sY2Iq8uG9 via @mappletons i love a certain woman. jeez. year after year bringing new and relevant ideas. thank you for your work! ❤ and i can't wait to see more sketches. 🤣",
+          "source_document_id": "1689017313603862529",
+          "timestamp": "2023-08-08T20:54:42+00:00",
+          "url": "https://x.com/c4ss1usl1f3/status/1689017313603862529",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: love, see, bringing, ideas."
+        },
+        {
+          "id": "art_83ee96e2db64",
+          "title": "Love receipt from 2024-01-22",
+          "excerpt": "@jondotbo love this!! i'm in.",
+          "source_document_id": "1749523976106209511",
+          "timestamp": "2024-01-22T20:06:35+00:00",
+          "url": "https://x.com/c4ss1usl1f3/status/1749523976106209511",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: love, see, bringing, ideas."
+        },
+        {
+          "id": "art_6e21afb016e4",
+          "title": "Love receipt from 2022-02-14",
+          "excerpt": "@Aleborda21 @AFilotimo hey @Aleborda21, is your ReFi map collaborative? i joined a bit late on the dreamDAO call you shared it, would love to contribute to it.",
+          "source_document_id": "1493239129907380228",
+          "timestamp": "2022-02-14T15:02:06+00:00",
+          "url": "https://x.com/c4ss1usl1f3/status/1493239129907380228",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: love, see, bringing, ideas."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_fadea4eee967",
+      "proof_score": 0.558,
+      "mass": 15.032,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_fabb80d731a0",
+      "name": "See",
+      "summary": "Archive cluster around see: 6 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "see",
+        "happy",
+        "excited",
+        "cool",
+        "kenakennedy"
+      ],
+      "artifacts": [
+        {
+          "id": "art_c2d6a5dc7c67",
+          "title": "See receipt from 2024-01-22",
+          "excerpt": "@schlagetown @hyperlink_a been prototyping pretty much this for a while, just missing the cool friends to share/hype with 🥲 super excited to see this come alive! :)",
+          "source_document_id": "1749525135638266047",
+          "timestamp": "2024-01-22T20:11:11+00:00",
+          "url": "https://x.com/c4ss1usl1f3/status/1749525135638266047",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: see, happy, excited, cool."
+        },
+        {
+          "id": "art_aaffe008b6ab",
+          "title": "See receipt from 2021-10-20",
+          "excerpt": "@kenakennedy @holochain very happy to see this crossover!!! excited about $HOT, $moritz and $alex? will you let me buy some equity in what you do? 🙃 hehe",
+          "source_document_id": "1450771207167660035",
+          "timestamp": "2021-10-20T10:29:44+00:00",
+          "url": "https://x.com/c4ss1usl1f3/status/1450771207167660035",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: see, happy, excited, cool."
+        },
+        {
+          "id": "art_3cdf1d16731c",
+          "title": "See receipt from 2022-10-29",
+          "excerpt": "@ashleydzhang yes! happy to see this unfoldment. will be following closely :)",
+          "source_document_id": "1586198710748422146",
+          "timestamp": "2022-10-29T03:30:17+00:00",
+          "url": "https://x.com/c4ss1usl1f3/status/1586198710748422146",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: see, happy, excited, cool."
+        },
+        {
+          "id": "art_5f536ab19682",
+          "title": "See receipt from 2024-04-02",
+          "excerpt": "@Malcolm_Ocean crazy good. happy to see they're on this investigative track.",
+          "source_document_id": "1775204380943204475",
+          "timestamp": "2024-04-02T16:51:20+00:00",
+          "url": "https://x.com/c4ss1usl1f3/status/1775204380943204475",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: see, happy, excited, cool."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_5c905cad36f4",
+      "proof_score": 0.545,
+      "mass": 14.951,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_ca6afa2e8b8d",
+      "name": "Know",
+      "summary": "Archive cluster around know: 4 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "know",
+        "most",
+        "journey",
+        "regenerative",
+        "others"
+      ],
+      "artifacts": [
+        {
+          "id": "art_ec716b2ddc34",
+          "title": "Know receipt from 2021-11-22",
+          "excerpt": "@rafathebuilder amazing, rafa! you're one of the people i'm most enthusiastic about following the journey here on twitter. :) seeing you make this step makes me think you'd reeeally like to know about the DHO (decentralized human/holonic organization) tool built by hypha",
+          "source_document_id": "1462799047731855360",
+          "timestamp": "2021-11-22T15:04:05+00:00",
+          "url": "https://x.com/c4ss1usl1f3/status/1462799047731855360",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, most, journey, regenerative."
+        },
+        {
+          "id": "art_ebfc8c517f83",
+          "title": "Know receipt from 2024-05-08",
+          "excerpt": "@JungleSilicon i only know the most famous ones in the tft community... any way to know who the others are?",
+          "source_document_id": "1788251178670739594",
+          "timestamp": "2024-05-08T16:54:39+00:00",
+          "url": "https://x.com/c4ss1usl1f3/status/1788251178670739594",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, most, journey, regenerative."
+        },
+        {
+          "id": "art_f1019979140a",
+          "title": "Know receipt from 2022-03-28",
+          "excerpt": "@CryptpalSingh @Aleborda21 @SEEDSeconomy is the best example i know of a set of tools enabling a closed-loop, citizen-governed, regenerative economy. their \"journey to a regenerative civilization\" series is also very informative/educational. definitely recommend starting with this: https://t.co/Ot8b7ysy2Z",
+          "source_document_id": "1508460513998606336",
+          "timestamp": "2022-03-28T15:06:27+00:00",
+          "url": "https://x.com/c4ss1usl1f3/status/1508460513998606336",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, most, journey, regenerative."
+        },
+        {
+          "id": "art_dddff0ab3a19",
+          "title": "Know receipt from 2024-11-18",
+          "excerpt": "for now, i'd like to do that via 1-1 calls, so i can learn about how you receive it and how to improve it to share it with others in more accessible ways.. let me know if you'd like to do one!",
+          "source_document_id": "1858613878013227401",
+          "timestamp": "2024-11-18T20:50:54+00:00",
+          "url": "https://x.com/c4ss1usl1f3/status/1858613878013227401",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, most, journey, regenerative."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_aab16d43a0ca",
+      "proof_score": 0.511,
+      "mass": 14.867,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_7806ebb926b3",
+      "name": "Regenerative",
+      "summary": "Archive cluster around regenerative: 1 posts; 1 quote-backed receipts pinned.",
+      "top_terms": [
+        "whether",
+        "already",
+        "familiar",
+        "metacrisis",
+        "tft"
+      ],
+      "artifacts": [
+        {
+          "id": "art_f569485ac6e2",
+          "title": "Regenerative receipt from 2024-11-18",
+          "excerpt": "so whether you're already familiar with the metacrisis, TfT, and regenerative spaces or not, i believe you can gain something valuable from it. and if you are, amazing! we can dive deeper! 🙏🏼🔥",
+          "source_document_id": "1858613884510191695",
+          "timestamp": "2024-11-18T20:50:56+00:00",
+          "url": "https://x.com/c4ss1usl1f3/status/1858613884510191695",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: whether, already, familiar, metacrisis."
+        }
+      ],
+      "artifact_count": 1,
+      "receipt_id": "rcpt_a3a7eeaefde9",
+      "proof_score": 0.419,
+      "mass": 10.579,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
